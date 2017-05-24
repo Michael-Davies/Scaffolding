@@ -1,0 +1,2 @@
+# Scaffolding
+HTML Scaffolding Template
